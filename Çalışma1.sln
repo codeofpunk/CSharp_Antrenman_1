@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma1", "Çalışma1\Çalışma1.csproj", "{B5F3B2E2-394E-4E06-8160-8ED2DC25C28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidTesti", "CovidTesti\CovidTesti.csproj", "{4899F084-89BF-4DD9-A787-5E6E3D5B2F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F3B2E2-394E-4E06-8160-8ED2DC25C28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F3B2E2-394E-4E06-8160-8ED2DC25C28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F3B2E2-394E-4E06-8160-8ED2DC25C28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F3B2E2-394E-4E06-8160-8ED2DC25C28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4899F084-89BF-4DD9-A787-5E6E3D5B2F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4899F084-89BF-4DD9-A787-5E6E3D5B2F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4899F084-89BF-4DD9-A787-5E6E3D5B2F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4899F084-89BF-4DD9-A787-5E6E3D5B2F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E17ADCD-9EFC-4F1E-9AC4-E02868489065}
+	EndGlobalSection
+EndGlobal
